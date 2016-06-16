@@ -7,7 +7,8 @@ def add(a, b):
 
 i = add(5, 7)
 
-
 print 'meow'
+
+x = 5 + 6
 
 print i
