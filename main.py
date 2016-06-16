@@ -13,5 +13,7 @@ x = 5 + 6
 
 
 print 'this is more text'
+y = "JUlian the born again boolean"
+ print y
 
 print i
