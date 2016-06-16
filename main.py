@@ -11,4 +11,8 @@ print 'meow'
 
 x = 5 + 6
 
+
+y = "JUlian the born again boolean"
+ print y
+
 print i
